@@ -1,0 +1,8 @@
+Package: DNAmethylation
+Title: GBM IDH1 mutation Methylation Example
+Version: 1.0
+Date: 2017-10-25
+Author: Chenkai Ma
+Maintainer: ChenkaiMA <mackaay1@163.com>
+Description: GBM IDH1 mutation Methylation Example
+License: GPL-3
